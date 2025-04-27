@@ -20,8 +20,4 @@ Bu proje, 8, 16 veya 32 bitlik veriler üzerinde **Hamming SEC-DED (Single-Error
 ---
 
 ## 🔥 Kurulum ve Çalıştırma
-
-[1. Projeyi klonlayın:
-   ```bash
-   git clone https://github.com/KendiGitHubAdin/HammingSimulator.git
-   cd HammingSimulator](https://github.com/suhailkhaleqi/Hamming-SEC-DED-Simulator.git)
+(https://github.com/suhailkhaleqi/Hamming-SEC-DED-Simulator.git)
