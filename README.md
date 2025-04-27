@@ -16,4 +16,3 @@ Bu proje, 8, 16 veya 32 bitlik veriler üzerinde **Hamming SEC-DED (Single-Error
 ## 🛠 Kullanılan Teknolojiler
 - Python 3.x
 - Tkinter (Python GUI kütüphanesi)
-- 
