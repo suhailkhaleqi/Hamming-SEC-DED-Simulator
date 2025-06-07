@@ -21,6 +21,14 @@ Bu proje, 8, 16 veya 32 bitlik veriler üzerinde **Hamming SEC-DED (Single-Error
  ![resize-17493138361097719027demo12](https://github.com/user-attachments/assets/73eec22e-1145-4ca1-bf35-0e2ac157306a)
  ![resize-17493138861937133958demo22](https://github.com/user-attachments/assets/980fe611-0b12-488b-9012-cd53d292eaad)
  ![resize-17493139042103474496demo3](https://github.com/user-attachments/assets/f68fa66a-0597-4b5a-ba22-ca6193299c42)
+<br><br>
+## Documentation<br>
+## Project Report<br>
+
+Download the full project report: [BLM230_Hamming SEC-DED Simülatörü_Suhail_Khaleqi_22360859401.pdf](https://github.com/suhailkhaleqj/Hamming-SEC-DED-Simulator/raw/main/BLM230_Hamming%20SEC-DED%20Sim%C3%BClat%C3%B6r%C3%BC_Suhail_Khaleqi_22360859401.pdf)<br>
+
+##Watch the demo video<br>
+[//youtu.be/T4n9j2Dcezs](https://youtu.be/T4n9j2Dcezs)
 
 
 
