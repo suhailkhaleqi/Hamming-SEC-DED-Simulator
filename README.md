@@ -26,7 +26,7 @@ Bu proje, 8, 16 veya 32 bitlik veriler üzerinde **Hamming SEC-DED (Single-Error
 ## Project Report<br>
 
 Download the full project report:## Project Report
-📄 [Download Full Report](BLM230_Hamming%20SEC-DED_Simulator_Suhail_Khaleqi_22360859401.pdf)<br>
+📄 [Download PDF](https://github.com/suhailkhaleqj/Hamming-SEC-DED-Simulator/raw/main/BLM230_Hamming%20SEC-DED_Simulator_Suhail_Khaleqi_22360859401.pdf)<br>
 
 ##Watch the demo video<br>
 [//youtu.be/T4n9j2Dcezs](https://youtu.be/T4n9j2Dcezs)
